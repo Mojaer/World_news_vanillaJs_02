@@ -1,0 +1,136 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Tennessee statehouse expels Democrat for gun control protest",
+      "description": "Justin Jones said the vote was \"a farce of democracy\". Republicans likened him to the US Capitol rioters.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-65206459",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/158E1/production/_129298288_9bff34233812c131009762c3205a578114f5d135.jpg",
+      "publishedAt": "2023-04-06T21:37:17.6793955Z",
+      "content": "A Democratic legislator has been expelled from the Tennessee statehouse for joining a gun control protest that brought legislative proceedings to a halt there last week.\r\nThe House of Representatives… [+2318 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Forget a K9 unit, this police station has a bunny",
+      "description": "Meet Officer Hops, the Yuba City Police Department's furry 'wellness officer'.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-65209664",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13DF8/production/_129300418_p0ffcwy7.jpg",
+      "publishedAt": "2023-04-06T21:07:19.6856685Z",
+      "content": "Forget a K9 unit, this police station has a bunny. Video, 00:01:07Forget a K9 unit, this police station has a bunny"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Biden administration defends Afghanistan withdrawal report",
+      "description": "Republicans in the US House of Representatives have been demanding to see the report for weeks.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-65208663",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13F7D/production/_129298718_gettyimages-1240566522.jpg",
+      "publishedAt": "2023-04-06T20:22:15.8188594Z",
+      "content": "The Biden administration has sent to Congress a major report reviewing the US withdrawal from Afghanistan in 2021.\r\nThe White House said some lessons had been learned but defended the chaotic end to … [+1682 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Four key findings in Maryland clerical abuse report",
+      "description": "The scope of the abuse by Catholic priests was staggering and the cover-up clear, says top prosecutor.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-65191469",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4248/production/_129286961_church.jpg",
+      "publishedAt": "2023-04-06T16:22:18.8041048Z",
+      "content": "Over 150 Catholic priests and others associated with the Archdiocese of Baltimore sexually abused more than 600 children in the last 80 years, a newly released state report has found. \r\nMaryland's to… [+3956 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "China moves warships after US hosts Taiwan's Tsai",
+      "description": "A meeting between Taiwan's Tsai Ing-wen and US House speaker Kevin McCarthy has sparked Beijing's ire.",
+      "url": "http://www.bbc.co.uk/news/world-asia-65160872",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FF76/production/_129289356_gettyimages-1480120632.jpg",
+      "publishedAt": "2023-04-06T12:07:21.3544205Z",
+      "content": "China has launched military drills in response to a much-anticipated meeting between Taiwan's president Tsai Ing-wen and US House Speaker Kevin McCarthy. \r\nThey met in California on Wednesday, a week… [+6390 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "King Charles supports study into royal family slavery links",
+      "description": "A new study will explore the relationship between the monarchy and the transatlantic slave trade.",
+      "url": "http://www.bbc.co.uk/news/uk-65200570",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14851/production/_129294048_king-index-getty.jpg",
+      "publishedAt": "2023-04-06T12:07:18.8550415Z",
+      "content": "Buckingham Palace said that it is cooperating with an independent study exploring the relationship between the British monarchy and the slave trade in the 17th and 18th centuries. \r\nThe Palace said K… [+2130 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "FBI detains wrong man in mock raid at Boston hotel",
+      "description": "Agents were carrying out a training exercise at a hotel in Boston when they raided the wrong room.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-65201607",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/37F9/production/_129292341_mediaitem129292337.jpg",
+      "publishedAt": "2023-04-06T10:22:20.4125717Z",
+      "content": "FBI agents carrying out a training exercise at a hotel in Boston broke into the wrong room and detained an innocent man, the agency confirmed.\r\nThe FBI said it was \"assisting\" the Department of Defen… [+930 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Macron counting on Xi to 'bring Russia to senses'",
+      "description": "The French leader, on a visit to China, is hoping Mr Xi can influence Russia to end its war in Ukraine.",
+      "url": "http://www.bbc.co.uk/news/world-asia-china-65198757",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11AE3/production/_129291427_7c22d47afd67bd981b1ae239959a843d144645e50_0_988_658988x658.jpg",
+      "publishedAt": "2023-04-06T09:37:20.5648361Z",
+      "content": "French President Emmanuel Macron has urged his Chinese counterpart Xi Jinping to use his influence to help stop Russia's war in Ukraine.\r\n\"I know I can count on you to bring Russia to its senses,\" he… [+2238 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Inquiry as teen fatally shot by officer sitting behind him in car",
+      "description": "Dalaneo Martin drove away in a suspected stolen SUV with an armed policeman in the backseat.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-65197857",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C344/production/_129288994_cbsn_fusion_feds-launch-civil-rights-investigation-into-shooting-death-of-teen-by-us-park-police_thumbnail_1858832_1920x1080.jpg",
+      "publishedAt": "2023-04-06T01:37:18.1463709Z",
+      "content": "Media caption, Police shoot teen asleep at wheel of parked car\r\nThe US justice department will investigate the death of a Washington DC teenager who was shot by a police officer sitting behind him in… [+2156 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "The cost of the Ukraine war for one Russian regiment",
+      "description": "BBC Newsnight has been mapping the cost - in men and machinery - for Russia's \"elite\" 331st regiment",
+      "url": "http://www.bbc.co.uk/news/world-europe-65179074",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C498/production/_129282305_4.jpg",
+      "publishedAt": "2023-04-05T23:22:15.5692498Z",
+      "content": "Kostroma is not a bad place to go looking for the effects of the Ukraine war on Russia. For this city is home to a celebrated regiment that bears its name and has been in the forefront of all the mai… [+8999 chars]"
+    }
+  ]
+}
